@@ -7,5 +7,5 @@
 ### What I do:
 - Play & make Roblox games
 - Sometimes plays Minecraft if Roblox gets boring to me.
-- Learn ~~Python~~ Clojure.
+- Learn ~~Python~~ `Clojure`.
 - Doing some productive stuff nobody asked.
