@@ -1,4 +1,4 @@
-### Developer at:
+### Developer and the Founder at:
 xyz Interactive
 
 
