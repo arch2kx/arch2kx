@@ -1,4 +1,4 @@
-# Hello, I'm Arch Kun (っ'ヮ'c)
+# Hello, I'm Arch Kun
 - Developer @ xyz Interactive
 - Visual Enthusiast
 - CLI FTW
