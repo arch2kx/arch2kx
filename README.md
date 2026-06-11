@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=emacs,vscode,robloxstudio,blender,figma,py,arch,linux,vim&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=emacs,vscode,robloxstudio,blender,javascript,typescript,figma,py,arch,linux,vim&theme=dark)](https://skillicons.dev)
 
 # Hello, I'm Arch Kun
 - I am a Developer and the Project Lead @ xyz Interactive
