@@ -3,7 +3,7 @@
 # Hello, I'm Arch Kun
 - I am a Developer and the Project Lead @ xyz Interactive
 - I like the CLI
-- Hoshino from Blue Archive is my favorite character (also Izuna)
+- Hoshino and Izuna from Blue Archive are my favorite characters
 
 ## Interests/Hobbies:
 - Playing gacha games such as Blue Archive (mostly)
