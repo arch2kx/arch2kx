@@ -1,12 +1,17 @@
-[![My Skills](https://skillicons.dev/icons?i=emacs,vscode,robloxstudio,blender,javascript,typescript,figma,py,arch,linux,vim&theme=dark)](https://skillicons.dev)
+# Hi, I'm Arch Kun
+Developer and Project Lead on
+Unredacted, an FPS on Roblox at xyz Interactive.
 
-# Hello, I'm Arch Kun
-- I am a Developer and the Project Lead @ xyz Interactive
-- I like the CLI
-- Hoshino and Izuna from Blue Archive are my favorite characters
+Created a bullet-hell in Raylib and C++, and learning C for
+the low-level end of engine work. Comfortable in TypeScript and Python.
 
-## Interests/Hobbies:
-- Playing gacha games such as Blue Archive (mostly)
-- Making 3D weapon models
-- Coding side projects for fun
-- Linux (yes I use Arch)
+### Recent Work:
+
+- Shipped SechifyTS, a cross-browser extension on the Chrome and
+  Firefox stores, plus a handful of smaller Blue Archive browser tools.
+- Hard-surface weapon modeling in Blender and Substance Painter,
+  targeting Roblox.
+
+Arch Linux + KDE, Vim, and an avid terminal user.
+
+Blue Archive enjoyer. Hoshino and Izuna supremacy.
