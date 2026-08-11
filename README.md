@@ -12,6 +12,6 @@ the low-level end of engine work. Comfortable in TypeScript and Python.
 - Hard-surface weapon modeling in Blender and Substance Painter,
   targeting Roblox.
 
-Arch Linux + KDE, Vim, and an avid terminal user.
+Arch Linux + KDE, Vim, Doom Emacs, and an avid terminal user.
 
 Blue Archive enjoyer. Hoshino and Izuna supremacy.
