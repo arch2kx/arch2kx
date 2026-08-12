@@ -2,7 +2,7 @@
 Developer and Project Lead on
 Unredacted, an FPS on Roblox at xyz Interactive.
 
-Created a bullet-hell in Raylib and C++, and learning C for
+Created a bullet-hell in Raylib using C++, and learning C for
 the low-level end of engine work. Comfortable in TypeScript and Python.
 
 ### Recent Work:
