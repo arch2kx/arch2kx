@@ -1,17 +1,10 @@
 # Hi, I'm Arch Kun
-Developer and Project Lead on
-Unredacted, an FPS on Roblox at xyz Interactive.
+I've created a couple of personal projects for enjoyment and my love of Blue Archive in terms of the community and its content.
+I currently work on a Roblox FPS game called Unredacted @ xyz Interactive.
 
-Created a bullet-hell in Raylib using C++, and learning C for
-the low-level end of engine work. Comfortable in TypeScript and Python.
+I consider myself a beginner programmer despite the sheer amount of projects I made. I dabbled with C and its derivatives, Python, TypeScript, and many more.
 
-### Recent Work:
+I currently use Arch Linux with KDE, MacOS, Vim, Doom Emacs, and some others. I am an avid terminal user, I rock kitty and use tmux 'cuz it's useful.
 
-- Shipped SechifyTS, a cross-browser extension on the Chrome and
-  Firefox stores, plus a handful of smaller Blue Archive browser tools.
-- Hard-surface weapon modeling in Blender and Substance Painter,
-  targeting Roblox.
-
-Arch Linux + KDE, Vim, Doom Emacs, and an avid terminal user.
-
-Blue Archive enjoyer. Hoshino and Izuna supremacy.
+Blue Archive enjoyer. 
+Hoshino and Izuna supremacy.
